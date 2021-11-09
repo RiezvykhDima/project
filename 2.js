@@ -1,4 +1,4 @@
-exports.fibonachi = function(number) {
+exports.fibonacci = function(number) {
 
     let numbers = [0,1,];
 

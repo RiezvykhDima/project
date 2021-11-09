@@ -1,3 +1,3 @@
 let resolve = require('./2');
 
-console.log(resolve.fibonachi(10));
+console.log(resolve.fibonacci(30));
